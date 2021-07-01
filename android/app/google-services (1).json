@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920083889886",
+    "project_id": "loginfire-67f4a",
+    "storage_bucket": "loginfire-67f4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920083889886:android:eb7a849e05a53417100c4f",
+        "android_client_info": {
+          "package_name": "com.example.login_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920083889886-37ccags9qq06u1q95tsju7999o1a6tav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkSdamSvEAq7gzvEn_swaRL_154GNAWhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920083889886-37ccags9qq06u1q95tsju7999o1a6tav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
